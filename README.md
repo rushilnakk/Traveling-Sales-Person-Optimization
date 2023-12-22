@@ -1,4 +1,5 @@
 # Traveling-Sales-Person-Optimization
+![delivery-man-on-scooter-riding-on-map-with-pins-vector](https://github.com/rushilnakk/Traveling-Sales-Person-Optimization/assets/78556727/af304705-49fb-4350-a431-e75fc02afff3)
 Solved traveling sales person optimization problem for a delivery company in Python using Gurobi.
 
 # Business Problem
